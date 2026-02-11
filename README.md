@@ -1,6 +1,6 @@
 # Owner Contracts Deployment
 
-This repository contains the `Owner.sol` contract deployed on Lisk Sepolia and Arc Testnets using Hardhat and Foundry. 
+This repository contains the `Owner.sol` contract deployed on Lisk Sepolia and Arc Testnets using Hardhat and Foundry.  Completed 
 
 ## Deployed Contract Addresses
 
